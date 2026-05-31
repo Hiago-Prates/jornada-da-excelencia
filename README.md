@@ -65,16 +65,13 @@ Um **game interativo completo** com sistema de pontuação, disputa entre grupos
 
 ---
 
-## 🖼️ Capturas de Tela
+## 🎬 Vídeo e Prints de Demonstração
 
-### Tela Inicial
-![Tela inicial](imagens/home.png)
+> 📎 *Vídeo + Prints em anexo no repositório — assista para ver o game rodando ao vivo.*
 
-### Nossa Cultura — DNAs do Mercado Livre
-![Nossa Cultura](imagens/cultura.png)
-
-### Ranking Histórico
-![Ranking](imagens/ranking.png)
+<!-- Cole aqui o link do vídeo se subir no YouTube:
+[![Assistir demonstração](https://img.shields.io/badge/▶%20Ver%20Demonstração-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](SEU_LINK_AQUI)
+-->
 
 ---
 
@@ -109,7 +106,7 @@ cd jornada-da-excelencia
 # Abra o index.html no seu browser
 ```
 
-> Também pode ser hospedado gratuitamente no **GitHub Pages** para acesso via link direto.
+> Também pode ser hospedado gratuitamente no **GitHub Pages** — acesse via link direto sem baixar nada.
 
 ---
 
@@ -119,6 +116,7 @@ cd jornada-da-excelencia
 jornada-da-excelencia/
 │
 ├── index.html        ← Game completo (HTML + CSS + JS em um único arquivo)
+├── demo.mp4          ← Vídeo de demonstração do game rodando
 ├── imagens/          ← Capturas de tela para o README
 │   ├── home.png
 │   ├── cultura.png
@@ -128,8 +126,20 @@ jornada-da-excelencia/
 
 ---
 
+## 📊 Tamanho do Projeto
+
+| Arquivo | Descrição |
+|---|---|
+| `index.html` | +900 linhas — HTML, CSS e JS integrados em um único arquivo |
+| CSS | ~600 linhas de estilização, animações e efeitos visuais |
+| JavaScript | ~300 linhas de lógica de jogo, estado e ranking |
+
+> Todo o game — partículas, animações 3D, sistema de pontuação e ranking — em **um único arquivo**, sem dependências externas.
+
+---
+
 ## 👨‍💻 Autor
 
-**Hiago Prates** — Analista Operacional | Estudante de Ciência de Dados  
+**Hiago Prates** — Analista Operacional | Estudante de Ciência de Dados
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-prates-a3a295400)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hiago-Prates)
